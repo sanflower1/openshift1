@@ -1,0 +1,4 @@
+
+The age of sandeep is 42
+The weight of sandeep is 45
+The height of sandeep is 5 ft 7 in
